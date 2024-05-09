@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class OperacionesTest {
+public class OperacionesTest { //Clase creada por el IDE
 
     @Test
     public void testSuma() {
