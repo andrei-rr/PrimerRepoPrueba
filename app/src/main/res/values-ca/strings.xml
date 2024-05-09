@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EjercicioEvaluableUF1DAM</string>
+    <string name="boton1_BorrarNotas_text">Eliminar totes les Notes</string>
+    <string name="boton2_BorrarNotas_text">Tornar</string>
+    <string name="toast1_BorrarNotas_text">S\'han eliminat totes les notes correctament</string>
+    <string name="label1_CrearNota_text">Escriu una nota: </string>
+    <string name="boton1_CrearNota_text">Tornar</string>
+    <string name="boton2_CrearNota_text">Crear</string>
+    <string name="toast1_CrearNota_text">Nota obligatòria</string>
+    <string name="toast2_CrearNota_text">Nota Creada correctament</string>
+    <string name="label1_start_text">Notetes</string>
+    <string name="label1_VerNota_text">Informació de la nota: </string>
+    <string name="boton1_VerNota_text">Tornar</string>
+    <string name="boton2_VerNota_text">Eliminar</string>
+    <string name="toast1_VerNota_text">Nota eliminada correctament</string>
+</resources>
